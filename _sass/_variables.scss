@@ -74,6 +74,7 @@ $darker-gray : mix(#000, $gray, 60%);
 $light-gray : mix(#fff, $gray, 50%);
 $lighter-gray : mix(#fff, $gray, 90%);
 
+// added colors below
 $custom-green : #277466;
 $darker-green : mix(#000, $custom-green, 60%);
 $light-green : mix(#fff, $custom-green, 50%);
@@ -85,6 +86,7 @@ $code-background-color : #b31f1f; // changed from fafafa
 $code-background-color-dark : #e71cdd; // changed from light-gray
 $text-color : $darker-green; // changed from dark-gray
 $border-color : $custom-green; // changed from lighter-gray
+$background-footer-masthead-color : $light-gray; // added
 
 $primary-color : $custom-green; // changed from 7a8288
 $success-color : #62c462;
