@@ -37,7 +37,7 @@
   }
 
   a {
-    color: inherit;
+    color: $darker-green; // changed from inherit
     text-decoration: none;
 
     &:hover {
