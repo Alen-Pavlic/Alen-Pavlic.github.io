@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Alen Pavlic Test"
+title                    : "Alen Pavlic"
 title_separator          : "-"
 name                     : &name "Alen Pavlic"
 description              : &description "personal description"
@@ -146,6 +146,7 @@ exclude:
   - package.json
   - tmp
   - vendor
+  - assets # added by me
 keep_files:
   - .git
   - .svn
