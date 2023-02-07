@@ -151,7 +151,6 @@ exclude:
   - package.json
   - tmp
   - vendor
-  - assets # exclude assets folder to enable customization of the skin
 keep_files:
   - .git
   - .svn
