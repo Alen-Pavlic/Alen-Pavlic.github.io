@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Alen Pavlic"
-  avatar           : "profile.png"
+  avatar           : "profile_alen.jpg"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  location         : "ETH Zurich"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com.sg/citations?user=h3PUzuEAAAAJ&hl=en&oi=ao"
+  email            : "apavlic@ethz.ch"
+  researchgate     : "https://www.researchgate.net/profile/Alen-Pavlic" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/alen-pavlic/"
   orcid            : "https://orcid.org/0000-0002-3260-4090"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
