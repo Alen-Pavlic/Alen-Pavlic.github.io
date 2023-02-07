@@ -80,13 +80,13 @@ $light-green : mix(#fff, $custom-green, 50%);
 $lighter-green : mix(#fff, $custom-green, 90%);
 
 $body-color : #e6e0e0; // changed from fff
-$background-color : #f0a2a2; // changed from fff
+$background-color : #efe7e7; // changed from fff
 $code-background-color : #b31f1f; // changed from fafafa
 $code-background-color-dark : #e71cdd; // changed from light-gray
-$text-color : #90c515; // changed from dark-gray
-$border-color : #1ca7e7; // changed from lighter-gray
+$text-color : $custom-green; // changed from dark-gray
+$border-color : $darker-green; // changed from lighter-gray
 
-$primary-color : $custom-green; // changed from 7a8288
+$primary-color : $darker-green; // changed from 7a8288
 $success-color : #62c462;
 $warning-color : #f89406;
 $danger-color : #ee5f5b;
