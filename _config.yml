@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Alen Pavlic"
+title                    : "Alen Pavlic Test"
 title_separator          : "-"
 name                     : &name "Alen Pavlic"
 description              : &description "personal description"
