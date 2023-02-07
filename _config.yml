@@ -313,5 +313,5 @@ compress_html:
 
 
 # Added by AP
-theme: minimal-mistakes-jekyll
+# theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
