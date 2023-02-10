@@ -20,7 +20,7 @@ author_profile: true
 Invited talks
 ====
 
-1. *Standing-wave acoustophoresis of Legionella species and the influence of multibody effects*. Invited speaker at an international scientific conference [Acoustofluidics 2022](https://www.acoustofluidics.net), Glasgow, Scotland, October 19-21, 2022.
+1. *Standing-wave acoustophoresis of Legionella species and the influence of multibody effects*. Invited speaker at an international scientific conference [Acoustofluidics 2022](https://www.acoustofluidics.net){:target="_blank"}{:rel="noopener noreferrer"}, Glasgow, Scotland, October 19-21, 2022.
 
 1. *Acoustophoresis of Legionella spp. and Acanthamoeba castellanii*. Seminar of Institute of Food and Beverage Innovation, ZHAW, Wädenswil, Switzerland, September 15, 2022. Invited by Prof. Lars Fieseler.
 

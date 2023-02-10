@@ -90,7 +90,7 @@ Scientific reviewing activities
   
 Awards
 ======
-* (2022) Invited speaker at [Acoustofluidics 2022 conference](https://www.acoustofluidics.net)
+* (2022) Invited speaker at [Acoustofluidics 2022 conference](https://www.acoustofluidics.net){:target="_blank"}{:rel="noopener noreferrer"}
 * (2021) W. Terence Coakley Award 2021 at Acoustofluidics 2021 conference
 * (2017-2019) Ad futura Scholarship for Study Abroad
 * (2017) Preseren Award for Students (an award for the BSc thesis)
@@ -123,7 +123,7 @@ Personal skills
   * ParaView
   * Computer languages: Latex, Python, C++, Arduino, Wolfram Language
 * Community involvement:
-  * Clarinetist, co-founder and board member of [Ave Orchestra](https://www.orkester-ave.si)
+  * Clarinetist, co-founder and board member of [Ave Orchestra](https://www.orkester-ave.si){:target="_blank"}{:rel="noopener noreferrer"}
 
 Publications
 ======
