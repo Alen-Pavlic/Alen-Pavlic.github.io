@@ -20,8 +20,7 @@ author_profile: true
 *= shared first authorship.
 
 
-Publications in peer-reviewed scientific journals
-====
+## Publications in peer-reviewed scientific journals
 
 1. Pavlic, A., Harshbarger, C. L., Rosenthaler, L., Snedeker, J. G., & Dual, J. (2023). *Sharp-edge-based acoustofluidic chip capable of programmable pumping, mixing, cell focusing and trapping*. Physics of Fluids. [DOI: 10.1063/5.0133992](https://doi.org/10.1063/5.0133992){:target="_blank"}{:rel="noopener noreferrer"}
 
@@ -38,8 +37,7 @@ Publications in peer-reviewed scientific journals
 1. Baasch, T.,* Pavlic, A.,* & Dual, J. (2019). *Acoustic radiation force acting on a heavy particle in a standing wave can be dominated by the acoustic microstreaming.* Physical Review E, 100(6), 061102. [DOI: 10.1103/PhysRevE.100.061102](https://doi.org/10.1103/PhysRevE.100.061102){:target="_blank"}{:rel="noopener noreferrer"}
 
 
-Published preprints
-====
+## Published preprints
 
 1. Harshbarger, C. L.,* Pavlic, A.,* Bernardoni, D. C., Viol, A., Snedeker, J. G., Dual, J., & Silván, U. (2023). *Measuring and simulating the biophysical basis of the acoustic contrast factor of biological cells*. arXiv preprint arXiv:2301.04061. [DOI: 10.48550/arXiv.2301.04061](https://doi.org/10.48550/arXiv.2301.04061){:target="_blank"}{:rel="noopener noreferrer"}
 
@@ -48,8 +46,7 @@ Published preprints
 1. Pavlic, A., Harshbarger, C. L., Rosenthaler, L., Snedeker, J. G., & Dual, J. (2022). *Sharp-edge-based acoustofluidic chip for programmable pumping, mixing, cell focusing and trapping*. arXiv preprint arXiv:2208.03459. [DOI: 10.48550/arXiv.2208.03459](https://doi.org/10.48550/arXiv.2208.03459){:target="_blank"}{:rel="noopener noreferrer"}
 
 
-Theses
-====
+## Theses
 
 1. Pavlic, A. (2022). *On the acoustic streaming and forces in acoustophoresis*. PhD thesis, ETH Zurich. [DOI: 10.3929/ethz-b-000583151](https://doi.org/10.3929/ethz-b-000583151){:target="_blank"}{:rel="noopener noreferrer"}
 
@@ -60,8 +57,7 @@ Theses
 1. Pavlič, A. (2017). *Opredelitev učinkovitosti sistema z ničtim izkoristkom na osnovi generirane sile*. Zaključna naloga univerzitetnega študijskega programa I. stopnje Strojništvo, Univerza v Ljubljani. Link for [download](https://repozitorij.uni-lj.si/IzpisGradiva.php?id=94959){:target="_blank"}{:rel="noopener noreferrer"} Eng. translation: *Effectiveness of a zero efficiency system based on a generated force*. BSc thesis, University of Ljubljana.
 
 
-Other reports
-====
+## Other reports
 
 1. Pavlič, A., Nikonov, A., & Florjančič, U. (2017). *Pregled metod merjenja debeline plasti: projektno delo z gospodarstvom in negospodarstvom v lokalnem in regionalnem okolju - Po kreativni poti do znanja 2016-2017*. Raziskava v okviru projekta “Inovativna tehnologija izboljšave kakovosti debeline mokre plasti tesnilnega materiala,” Fakulteta za industrijski inženiring Novo mesto. Eng. summary: Report of a review on the measurement methods of thickness of thin layers in the scope of an innovation project on improving the quality of the wet layer of a sealing material.
 

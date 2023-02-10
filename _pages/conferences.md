@@ -14,8 +14,7 @@ author_profile: true
 
 *Last update: 10. February 2023*
 
-Invited talks
-====
+## Invited talks
 
 1. *Standing-wave acoustophoresis of Legionella species and the influence of multibody effects*. Invited speaker at an international scientific conference [Acoustofluidics 2022](https://www.acoustofluidics.net){:target="_blank"}{:rel="noopener noreferrer"}, Glasgow, Scotland, October 19-21, 2022.
 
@@ -24,8 +23,7 @@ Invited talks
 1. Talk about acoustofluidics and studying abroad for a group of bachelor students of mechanical engineering at University of Ljubljana, December 23, 2020. Invited by Dr. Marko Bek.
 
 
-Contributions to scientific conferences
-====
+## Contributions to scientific conferences
 
 1. Pavlic, A., Ermanni, L., Nagpure, P., Veljkovic, M., Fieseler, L., & Dual, J., *Acoustophoresis of Legionella species and the influence of viscous effects on acoustic forces*. The International Symposium on Biomolecular Ultrasound & Sonogenetics, Pasadena, December 8-11, 2022. Poster.
 
