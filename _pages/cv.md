@@ -11,8 +11,8 @@ redirect_from:
 
 *Last update on 10. February 2023*
 
-Education
-======
+## Education
+
 * 06/2019 - 12/2022: Institute for Mechanical Systems, D-MAVT, ETH Zurich, Switzerland
   * PhD in acoustofluidics under supervision of Prof. Jürg Dual
   * PhD thesis title: "*On the acoustic streaming and forces in acoustophoresis*"
@@ -31,8 +31,8 @@ Education
   * BSc thesis supervised by Prof. Igor Emri
   * BSc thesis title: "*Effectiveness of a zero efficiency system based on a generated force*"
 
-Employment
-======
+## Employment
+
 * 01/2023 - present: Institute for Mechanical Systems, D-MAVT, ETH Zurich, Switzerland
   * Postdoctoral researcher
   * Research in the group of Prof. Jürg Dual
@@ -60,24 +60,24 @@ Employment
   * Student work in production and warehouse
 
   
-Supervision
-======
+## Supervision
+
 During my PhD at ETH Zurich, under supervision of Prof. Jürg Dual, I supervised:
  * 11 BSc theses
  * 3 semester projects
  * 2 studies on mechatronics
  * 2 MSc theses
 
-Teaching
-======
+## Teaching
+
 * Head (or shared head) assistant for the following courses at ETH Zurich:
   * Technische Mechanik, Prof. Jürg Dual, fall semester 2020
   * Mechanik GZ, Prof. Christoph Glocker, spring semester 2021-2022
   * Experimentelle Mechanik, Prof. Jürg Dual, spring semester 2022.
 * Lecture on the use of finite-element method for acoustofluidics, and in charge of numerical lab sessions in Microscale Acoustofluidics course of Prof. Jürg Dual, fall semester 2019-2021, at ETH Zurich.
   
-Scientific reviewing activities
-======
+## Scientific reviewing activities
+
 Detailed records on [Web of Science](https://www.webofscience.com/wos/author/record/ABB-1410-2021){:target="_blank"}{:rel="noopener noreferrer"}
 * Physical Review Letters
 * Physical Review E
@@ -89,8 +89,8 @@ Detailed records on [Web of Science](https://www.webofscience.com/wos/author/rec
 * Lab on a Chip
 * Acta Acustica
   
-Awards
-======
+## Awards
+
 * (2022) Invited speaker at [Acoustofluidics 2022 conference](https://www.acoustofluidics.net){:target="_blank"}{:rel="noopener noreferrer"}
 * (2021) W. Terence Coakley Award 2021 at Acoustofluidics 2021 conference
 * (2017-2019) Ad futura Scholarship for Study Abroad
@@ -105,8 +105,8 @@ Awards
 * (2009 & 2010) 3rd prize at National Robotics Competition in category "ROBOsled INOVATOR"
 * (2010) 1st prize at National Robotics Competition in category "ROBOsled POZNAVALEC"
   
-Personal skills
-======
+## Personal skills
+
 * Languages
   * Slovenian (native)
   * English (fluent)
@@ -125,15 +125,3 @@ Personal skills
   * Computer languages: Latex, Python, C++, Arduino, Wolfram Language
 * Community involvement:
   * Clarinetist, co-founder and board member of [Ave Orchestra](https://www.orkester-ave.si){:target="_blank"}{:rel="noopener noreferrer"}
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Conferences
-======
-  <ul>{% for post in site.conferences %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
